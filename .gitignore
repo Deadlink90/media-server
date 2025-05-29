@@ -1,0 +1,5 @@
+node_modules/
+src/uploads/products
+src/uploads/text_files
+src/uploads/users
+.env
